@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="532e3c42-4446-42b3-90b3-643e36baab6c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Huruf$main.coverage" NAME="main Coverage Results" MODIFIED="1537862074603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Huruf$Huruf.coverage" NAME="Huruf Coverage Results" MODIFIED="1537852447892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1178483980">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="1" />
+          <entry key="ipynb" value="2" />
+          <entry key="py" value="27" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="1" />
+          <entry key="IPNB" value="2" />
+          <entry key="Python" value="27" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="7" />
+          <entry key="py" value="13395" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="13402" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ml/huruf_word_count.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+                <marker date="1537862074029" expanded="true" signature="109:110" ph="..." />
+                <marker date="1537862074029" expanded="true" signature="109:1287" ph="..." />
+                <marker date="1537862074029" expanded="true" signature="1773:1814" ph="..." />
+                <marker date="1537862074029" expanded="true" signature="3178:3187" ph="..." />
+                <marker date="1537862074029" expanded="true" signature="3178:3216" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/sure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="71" column="39" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+                <marker date="1537859503455" expanded="true" signature="71:72" ph="..." />
+                <marker date="1537859503455" expanded="true" signature="396:402" ph="..." />
+                <marker date="1537859503455" expanded="true" signature="474:914" ph="..." />
+                <marker date="1537859503455" expanded="true" signature="985:991" ph="..." />
+                <marker date="1537859503455" expanded="true" signature="1715:2322" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/huruf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/kuran.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>meryem</find>
+      <find>text</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/model/ayet.py" />
+        <option value="$PROJECT_DIR$/data/kuran.xml" />
+        <option value="$PROJECT_DIR$/model/huruf.py" />
+        <option value="$PROJECT_DIR$/model/arabic_alphabet.py" />
+        <option value="$PROJECT_DIR$/ml/classification.py" />
+        <option value="$PROJECT_DIR$/model/kuran.py" />
+        <option value="$PROJECT_DIR$/ml/csv_generator.py" />
+        <option value="$PROJECT_DIR$/tdc.ipynb" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/model/sure.py" />
+        <option value="$PROJECT_DIR$/ml/huruf_word_count.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="960" />
+    <option name="height" value="1125" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Huruf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Huruf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Huruf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Huruf" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Huruf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Huruf" type="462c0819:PsiDirectoryNode" />
+              <item name="ml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Huruf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Huruf" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Huruf" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="Huruf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Huruf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Huruf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jupyter Notebook.Huruf" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="532e3c42-4446-42b3-90b3-643e36baab6c" name="Default Changelist" comment="" />
+      <created>1534009714565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534009714565</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="960" height="1125" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24400872" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913843" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18683447" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39980638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32913843" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32913843" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32913843" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="430" height="925" id="Documentation" order="5" side_tool="true" weight="0.18370607" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="huruf_sure_dict['ya']" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/kuran.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/arabic_alphabet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/kuran-en.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7621" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/kuran.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="3688" selection-start-line="3688" selection-end-line="3791" />
+          <folding>
+            <element signature="e#743#1625#0" />
+            <element signature="e#1627#73398#0" />
+            <element signature="e#73400#117517#0" />
+            <element signature="e#117519#160468#0" />
+            <element signature="e#160470#190626#0" />
+            <element signature="e#190628#227080#0" />
+            <element signature="e#227082#268923#0" />
+            <element signature="e#268925#283543#0" />
+            <element signature="e#283545#312291#0" />
+            <element signature="e#312293#333360#0" />
+            <element signature="e#333362#357253#0" />
+            <element signature="e#357255#377713#0" />
+            <element signature="e#377715#387413#0" />
+            <element signature="e#387415#396996#0" />
+            <element signature="e#396998#407893#0" />
+            <element signature="e#407895#430859#0" />
+            <element signature="e#430861#450624#0" />
+            <element signature="e#450626#470543#0" />
+            <element signature="e#470545#483461#0" />
+            <element signature="e#483463#501352#0" />
+            <element signature="e#501354#517432#0" />
+            <element signature="e#517434#532048#0" />
+            <element signature="e#532050#546887#0" />
+            <element signature="e#546889#561707#0" />
+            <element signature="e#561709#573433#0" />
+            <element signature="e#573435#596539#0" />
+            <element signature="e#596541#611225#0" />
+            <element signature="e#611227#628119#0" />
+            <element signature="e#628121#640158#0" />
+            <element signature="e#640160#650209#0" />
+            <element signature="e#650211#656436#0" />
+            <element signature="e#656438#661072#0" />
+            <element signature="e#661074#675851#0" />
+            <element signature="e#675853#685952#0" />
+            <element signature="e#685954#694724#0" />
+            <element signature="e#705320#722784#0" />
+            <element signature="e#722786#733680#0" />
+            <element signature="e#733682#748121#0" />
+            <element signature="e#748123#763175#0" />
+            <element signature="e#763177#772795#0" />
+            <element signature="e#772797#782850#0" />
+            <element signature="e#782852#795249#0" />
+            <element signature="e#795251#801039#0" />
+            <element signature="e#801041#807148#0" />
+            <element signature="e#807150#814760#0" />
+            <element signature="e#814762#821848#0" />
+            <element signature="e#821850#828737#0" />
+            <element signature="e#828739#832812#0" />
+            <element signature="e#832814#838152#0" />
+            <element signature="e#838154#844202#0" />
+            <element signature="e#844204#849644#0" />
+            <element signature="e#849646#855523#0" />
+            <element signature="e#855525#861695#0" />
+            <element signature="e#861697#869126#0" />
+            <element signature="e#869128#877123#0" />
+            <element signature="e#877125#883657#0" />
+            <element signature="e#883659#889192#0" />
+            <element signature="e#889194#894502#0" />
+            <element signature="e#894504#898315#0" />
+            <element signature="e#898317#900869#0" />
+            <element signature="e#900871#902836#0" />
+            <element signature="e#902838#904976#0" />
+            <element signature="e#904978#908159#0" />
+            <element signature="e#908161#911395#0" />
+            <element signature="e#911397#914328#0" />
+            <element signature="e#914330#918637#0" />
+            <element signature="e#924063#928978#0" />
+            <element signature="e#928980#933236#0" />
+            <element signature="e#933238#936532#0" />
+            <element signature="e#936534#940468#0" />
+            <element signature="e#940470#943220#0" />
+            <element signature="e#943222#948001#0" />
+            <element signature="e#948003#951241#0" />
+            <element signature="e#951243#954847#0" />
+            <element signature="e#954849#958824#0" />
+            <element signature="e#958826#962169#0" />
+            <element signature="e#962171#965965#0" />
+            <element signature="e#965967#969107#0" />
+            <element signature="e#969109#971458#0" />
+            <element signature="e#971460#973278#0" />
+            <element signature="e#973280#976545#0" />
+            <element signature="e#976547#978670#0" />
+            <element signature="e#978672#980616#0" />
+            <element signature="e#980618#981966#0" />
+            <element signature="e#981968#983505#0" />
+            <element signature="e#983507#985484#0" />
+            <element signature="e#985486#988226#0" />
+            <element signature="e#988228#989833#0" />
+            <element signature="e#989835#991105#0" />
+            <element signature="e#991107#992809#0" />
+            <element signature="e#992811#993733#0" />
+            <element signature="e#993735#994415#0" />
+            <element signature="e#994417#995134#0" />
+            <element signature="e#995136#996608#0" />
+            <element signature="e#996610#997101#0" />
+            <element signature="e#997103#998403#0" />
+            <element signature="e#998405#999134#0" />
+            <element signature="e#999136#1000060#0" />
+            <element signature="e#1000062#1000924#0" />
+            <element signature="e#1000926#1001609#0" />
+            <element signature="e#1001611#1001920#0" />
+            <element signature="e#1001922#1002672#0" />
+            <element signature="e#1002674#1003211#0" />
+            <element signature="e#1003213#1003628#0" />
+            <element signature="e#1003630#1004208#0" />
+            <element signature="e#1004210#1004535#0" />
+            <element signature="e#1004537#1005105#0" />
+            <element signature="e#1005107#1005493#0" />
+            <element signature="e#1005495#1005936#0" />
+            <element signature="e#1005938#1006262#0" />
+            <element signature="e#1006264#1006709#0" />
+            <element signature="e#1006711#1007187#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/classification.py" />
+    <entry file="file://$PROJECT_DIR$/model/ayet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdc.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/csv_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <marker date="1537854258010" expanded="true" signature="273:274" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/kuran.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/sure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="71" column="39" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+            <marker date="1537859503455" expanded="true" signature="71:72" ph="..." />
+            <marker date="1537859503455" expanded="true" signature="396:402" ph="..." />
+            <marker date="1537859503455" expanded="true" signature="474:914" ph="..." />
+            <marker date="1537859503455" expanded="true" signature="985:991" ph="..." />
+            <marker date="1537859503455" expanded="true" signature="1715:2322" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/huruf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/huruf_word_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <marker date="1537862074029" expanded="true" signature="109:110" ph="..." />
+            <marker date="1537862074029" expanded="true" signature="109:1287" ph="..." />
+            <marker date="1537862074029" expanded="true" signature="1773:1814" ph="..." />
+            <marker date="1537862074029" expanded="true" signature="3178:3187" ph="..." />
+            <marker date="1537862074029" expanded="true" signature="3178:3216" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
