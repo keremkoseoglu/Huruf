@@ -114,3 +114,8 @@ Kök dizinde ise, ana nesneler bulunmaktadır.
 Arapça bilmediğim için, araştırmalar sırasında gözden kaçan pek çok detay olmuş olabilir. Arap dilinin başka dillere 
 yansıtılamayacak incelikleri arasında sayısal bir araştırma yaparak, Huruf-u Mukattaa'nın anlamları belki de
 çıkarılabilir. 
+
+## Gelen öneriler
+
+"kerem bey, ingilizce başta ve sondan eklemeli bir dildir(varsa yabancı dilden girmiş kelimeler hariç), arapça ise baştan,ortadan ve sondan eklemeli bir dildir.haliyle arapçadaki bir kelimeyi ingilizcede bir kaç kelime ile ifade etmeniz gerekebilir, en basitinden arapçada tekil,ikil ve çoğul vardır , türkçe veya ingilizce gibi dillerde tekil çoğul(singular plural ) var sadece, örneğin "iki kitap" ifadesi tek kelimede yazılabilir. 
+ayrıca ingilizcedeki irregular verbs gibi illetli fiiller vardır, utf olarak arapça metin bulursanız birde onunla deneyin korelasyon miktarları ciddi değişebilir."
